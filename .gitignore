@@ -1,0 +1,15 @@
+# Blender autosave & backups
+*.blend1
+*.blend2
+*.blend@
+*.tmp
+
+# Render outputs
+*.exr
+*.png
+*.jpg
+*.tga
+*.bmp
+
+# Cache folders
+/cache/
